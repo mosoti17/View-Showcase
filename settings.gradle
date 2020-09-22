@@ -1,0 +1,4 @@
+include ':mylibrary'
+include ':app'
+include ':viewShowcase'
+rootProject.name = "Android ShowCase"
